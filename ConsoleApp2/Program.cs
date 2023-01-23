@@ -23,7 +23,7 @@ namespace ConsoleApp2
             }
         }
         
-        }
+        
         public void MatrixB(int length, int width)
         {
             Random random = new Random();
